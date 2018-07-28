@@ -1,0 +1,19 @@
+{
+  "name": "react_sample_code",
+  "version": "1.0.0",
+  "description": "react code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshpathak/react.git"
+  },
+  "author": "ganesh pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshpathak/react/issues"
+  },
+  "homepage": "https://github.com/ganeshpathak/react#readme"
+}
